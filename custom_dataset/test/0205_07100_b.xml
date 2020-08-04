@@ -1,0 +1,26 @@
+<annotation>
+	<folder>GreenParking</folder>
+	<filename>0205_07100_b.jpg</filename>
+	<path>E:\Train\GreenParking\0205_07100_b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>472</width>
+		<height>303</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>license-plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>192</ymin>
+			<xmax>317</xmax>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>
